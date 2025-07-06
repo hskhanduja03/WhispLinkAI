@@ -6,7 +6,7 @@ from rag_pipeline import ask_question
 from utils import generate_collection_name
 
 st.set_page_config(page_title="RAG from URL")
-st.title("🧠 Chat with Any Website")
+st.title("🧠 WhispLinkAI — Turn Any Link Into a Conversation.")
 
 url = st.text_input("Enter website URL")
 question = st.text_input("Ask a question")
