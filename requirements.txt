@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+qdrant-client
+sentence-transformers
+beautifulsoup4
+trafilatura
+python-dotenv
+google-generativeai
+langchain_qdrant
