@@ -9,3 +9,4 @@ python-dotenv
 google-generativeai
 langchain_qdrant
 playwright
+langchain_google_genai
